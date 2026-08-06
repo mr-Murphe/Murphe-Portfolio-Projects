@@ -1,0 +1,51 @@
+name: Rebrand site to Phasefield
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rebrand-phasefield.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebrand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update public brand
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text()
+          replacements = {
+              'Ashford Growth Systems': 'Phasefield',
+              'aria-label="Ashford Growth Systems home"': 'aria-label="Phasefield home"',
+              '<span class="brand-mark">AG</span>': '<span class="brand-mark">PF</span>',
+              '<strong>ASHFORD</strong><span>Growth Systems</span>': '<strong>PHASEFIELD</strong><span>Marketing &amp; Revenue Systems</span>',
+              '<title>Phasefield</title>': '<title>Phasefield | Marketing &amp; Revenue Systems</title>',
+              'Growth Systems Assessment': 'Growth &amp; Revenue Assessment',
+              'Growth Systems Strategist': 'Marketing &amp; Revenue Systems Strategist',
+          }
+          for old, new in replacements.items():
+              s = s.replace(old, new)
+          s = s.replace(
+              'Phasefield helps businesses turn more attention into customers, revenue, and repeat business by connecting acquisition, conversion, lifecycle marketing, automation, and measurement.',
+              'Phasefield helps businesses turn more attention into customers, revenue, and repeat business by connecting marketing, customer journeys, automation, and measurement.'
+          )
+          p.write_text(s)
+          PY
+      - name: Commit updated brand
+        run: |
+          if git diff --quiet; then
+            echo "No changes needed"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Apply Phasefield brand"
+          git push
