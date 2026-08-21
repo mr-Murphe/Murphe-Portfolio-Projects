@@ -2,6 +2,22 @@
 
 This folder contains a sanitized, public-safe execution protocol for AI systems working with Murph on projects in this repository.
 
+## Session bootstrap: external anchor
+
+At the start of a new conversation, a new substantial work session, or a meaningful project resumption, re-anchor to the durable external operating system before making consequential recommendations or changing project direction whenever the connected sources are available.
+
+Default bootstrap order:
+
+1. Read `NORTH_STAR.md`.
+2. Read this operating protocol.
+3. If Google Drive is available, read `Murph AI Operating System/00_READ_FIRST/AI_OPERATING_DOCTRINE.md`.
+4. If Google Drive is available, read `Murph AI Operating System/00_READ_FIRST/ACTIVE_PROJECT_PORTFOLIO.md` when priorities may matter.
+5. Identify the relevant project and read its current `PROJECT_STATE.md` before resuming or reprioritizing work.
+6. Review finalized/source-of-truth assets as needed.
+7. For code-heavy work, read the relevant repository instructions, project handoff, README, and AGENTS material when available.
+
+Do not assume memory alone is sufficient when durable current state can be read. Prefer current external state over stale recollection.
+
 ## Read order
 
 1. Read this file before substantial work.
@@ -54,6 +70,24 @@ When the gate is not met, capture the idea and preserve the current priority.
 Never bind an ambiguous reference to an older project, document, company, book, or idea merely because a plausible match exists in memory.
 
 Prefer the most recent clearly established context. Verify against current project state, Drive, GitHub, files, or conversation history where available. If material uncertainty remains, state it rather than inventing confidence.
+
+## `auto save` command
+
+When Murph says **"auto save"**, treat it as a command to reconcile the current conversation into durable external project state and assets.
+
+For every relevant project touched in the thread:
+
+1. Review meaningful changes since the last known durable save.
+2. Update the relevant `PROJECT_STATE.md`: phase, overall completion, current-stage completion, completed work, decisions, blockers, next actions, next stage, parking-lot ideas, date, and change log as warranted.
+3. Save finalized assets to the correct Google Drive project folder when Drive access is available. Prefer canonical/final assets over every intermediate draft.
+4. Preserve provenance and do not mislabel uncertain/intermediate assets as final.
+5. Record transfer/recovery limitations when an asset cannot be persisted.
+6. Update GitHub handoff/project documentation for code-heavy work when the change is public-safe and useful to Codex or other agents.
+7. Never publish private personal or employer-confidential material into a public repository.
+8. Update the central portfolio only when priority, project status, stage, or meaningful completion actually changed.
+9. Report concisely what was saved and any limitations.
+
+See `AUTO_SAVE_PROTOCOL.md` for the standalone protocol.
 
 ## AI functions
 
