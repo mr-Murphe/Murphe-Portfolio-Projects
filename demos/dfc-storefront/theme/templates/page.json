@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "s0": {
+      "type": "pf-trust-operations"
+    }
+  },
+  "order": [
+    "s0"
+  ]
+}

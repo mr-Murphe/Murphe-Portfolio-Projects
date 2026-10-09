@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "s0": {
+      "type": "pf-availability-bar"
+    },
+    "s1": {
+      "type": "pf-adaptive-hero"
+    },
+    "s2": {
+      "type": "pf-mission-chooser"
+    },
+    "s3": {
+      "type": "pf-style-selector"
+    },
+    "s4": {
+      "type": "pf-guided-products"
+    },
+    "s5": {
+      "type": "pf-secret-admirer-guide"
+    },
+    "s6": {
+      "type": "pf-trust-operations"
+    }
+  },
+  "order": [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ]
+}

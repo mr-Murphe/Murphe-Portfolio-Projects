@@ -1,0 +1,44 @@
+[
+  {
+    "browser": "chromium",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "status": "passed",
+    "checks": "four states, overflow, campaign/visitor/history, cutoff/Sunday/unavailable, filters, PDP/cart, fallback, URL safety, keyboard"
+  },
+  {
+    "browser": "chromium",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "status": "passed",
+    "checks": "four states, overflow, campaign/visitor/history, cutoff/Sunday/unavailable, filters, PDP/cart, fallback, URL safety, keyboard"
+  },
+  {
+    "browser": "chromium",
+    "viewport": {
+      "width": 320,
+      "height": 740
+    },
+    "status": "passed",
+    "checks": "four states, overflow, campaign/visitor/history, cutoff/Sunday/unavailable, filters, PDP/cart, fallback, URL safety, keyboard"
+  },
+  {
+    "browser": "chromium",
+    "status": "passed",
+    "checks": "no JS default/catalog/PDP"
+  },
+  {
+    "browser": "firefox",
+    "status": "unavailable",
+    "reason": "browserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/firefox-1555/firefox/firefox"
+  },
+  {
+    "browser": "webkit",
+    "status": "unavailable",
+    "reason": "browserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/webkit-2370/pw_run.sh"
+  }
+]

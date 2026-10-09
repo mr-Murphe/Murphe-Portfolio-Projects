@@ -1,0 +1,20 @@
+[
+  {
+    "name": "settings_info",
+    "theme_name": "Phasefield Independent Concept",
+    "theme_author": "Phasefield",
+    "theme_version": "0.1.0",
+    "theme_documentation_url": "https://shopify.dev/docs/storefronts/themes"
+  },
+  {
+    "name": "Demo safety",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "demo_mode",
+        "label": "Keep all purchase controls disabled (independent concept)",
+        "default": true
+      }
+    ]
+  }
+]

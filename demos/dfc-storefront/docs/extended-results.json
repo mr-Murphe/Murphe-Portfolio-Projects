@@ -1,0 +1,116 @@
+{
+  "accessibility": [
+    {
+      "width": 1440,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 1440,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 1440,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 1440,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 390,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 390,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 390,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "width": 390,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    }
+  ],
+  "performance": [
+    {
+      "width": 1440,
+      "lcp_ms": 216,
+      "cls": 0.0028018108000578703,
+      "transfer_bytes": 674614,
+      "conditions": "local unt throttled headless Chromium, not field CWV/INP"
+    },
+    {
+      "width": 390,
+      "lcp_ms": 116,
+      "cls": 0.011466000000000002,
+      "transfer_bytes": 674614,
+      "conditions": "local unt throttled headless Chromium, not field CWV/INP"
+    }
+  ],
+  "other": [
+    {
+      "width": 1440,
+      "check": "200% CSS zoom/reflow, reduced motion",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "check": "200% CSS zoom/reflow, reduced motion",
+      "status": "passed"
+    },
+    {
+      "check": "adaptive engine module network failure preserves default/PDP/baseline cart",
+      "status": "passed"
+    },
+    {
+      "check": "malformed cart storage safely cleared",
+      "status": "passed"
+    },
+    {
+      "check": "missing product returns 404, not fake product",
+      "status": "passed"
+    }
+  ]
+}

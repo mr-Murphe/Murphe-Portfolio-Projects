@@ -1,0 +1,47 @@
+<section class="hero"><div class="hero-copy"><span class="eyebrow">{{ section.settings.eyebrow | escape }}</span><h1 data-pf-title>{{ section.settings.headline | escape }}</h1><p data-pf-body>{{ section.settings.body | escape }}</p><a class="button" href="{{ section.settings.destination | default: routes.all_products_collection_url }}" data-pf-cta>{{ section.settings.cta | escape }}</a></div>{% if section.settings.image %}<figure>{{ section.settings.image | image_url: width: 1400 | image_tag: widths: '400,700,1000,1400', loading: 'eager' }}</figure>{% endif %}</section>
+{% schema %}
+{
+  "name": "Adaptive Hero",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "Made for your kind of moment"
+    },
+    {
+      "type": "text",
+      "id": "headline",
+      "label": "Headline",
+      "default": "Detroit flowers with personality."
+    },
+    {
+      "type": "text",
+      "id": "body",
+      "label": "Supporting copy",
+      "default": "Bold bouquets and custom details."
+    },
+    {
+      "type": "text",
+      "id": "cta",
+      "label": "Call to action",
+      "default": "Browse flowers"
+    },
+    {
+      "type": "url",
+      "id": "destination",
+      "label": "Destination"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Approved image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Adaptive Hero"
+    }
+  ]
+}
+{% endschema %}

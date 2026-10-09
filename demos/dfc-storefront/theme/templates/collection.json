@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "s0": {
+      "type": "pf-guided-products"
+    }
+  },
+  "order": [
+    "s0"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@sparticuz/chromium": "^153.0.0",
+    "axe-core": "^4.14.0",
+    "playwright": "^1.64.0"
+  },
+  "name": "phasefield-dfc-independent-concept",
+  "private": true,
+  "scripts": {
+    "build": "python3 build.py",
+    "test": "node --test tests/engine.test.mjs",
+    "test:static": "python3 tests/static_qa.py",
+    "test:browser": "node tests/browser.cjs",
+    "test:extended": "node tests/extended.cjs"
+  }
+}

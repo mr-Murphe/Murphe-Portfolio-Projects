@@ -1,0 +1,6 @@
+# Uninstalled Shopify OS 2.0 adapter candidate
+This theme source is inspectable, not installed or runtime-verified. Static demo is the primary tested implementation. Theme schemas/templates statically validated only. Do not claim parity or production readiness.
+
+Use a separate authorized development store and configure an approved reference collection. Set merchant images, menu, homepage sections and FAQ blocks in theme editor. Metafields in namespace phasefield: lead_time_days integer; styles and occasions list.single_line_text_field; same_day_eligible and sap_eligible boolean. Unknown lead time is 999 and urgent exclusion is conservative. Prices and availability come from Shopify, never query parameters. Default browsing preserves merchant catalog. demo_mode defaults true and disables product/cart collection. Never toggle it for an unsolicited private demonstration. Authorized production work needs themes CLI validation, variant/property integration, shipping/date/holiday validation, privacy setup, real browser QA and checkout testing.
+
+Adapter deliberately omits presenter controls and real third-party handles. Client-approved operational policy data, price variation and fulfillment integration required before use. Native form source is provided only for a later authorized handoff. No Shopify account was accessed.

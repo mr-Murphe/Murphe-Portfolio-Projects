@@ -1,0 +1,66 @@
+{
+  "states": [
+    "default",
+    "urgent",
+    "mothers_day_discovery",
+    "secret_admirer"
+  ],
+  "campaign_allowlist": {
+    "pf_mission": {
+      "urgent": "urgent",
+      "discovery": "mothers_day_discovery",
+      "secret_admirer": "secret_admirer"
+    },
+    "pf_occasion": [
+      "mothers_day"
+    ]
+  },
+  "priority": [
+    "explicit_visitor",
+    "campaign",
+    "default"
+  ],
+  "budget_bands": {
+    "under75": [
+      0,
+      75
+    ],
+    "75to125": [
+      75,
+      125
+    ],
+    "125to200": [
+      125,
+      200
+    ],
+    "statement": [
+      200,
+      null
+    ]
+  },
+  "styles": [
+    "all",
+    "playful",
+    "classic",
+    "bold",
+    "custom"
+  ],
+  "fulfillment": [
+    "delivery",
+    "pickup"
+  ],
+  "timing": [
+    "today",
+    "next"
+  ],
+  "timezone": "America/Detroit",
+  "cutoff_minutes": 660,
+  "closed_weekdays": [
+    0
+  ],
+  "default_simulation": "2026-10-09T10:30:00-04:00",
+  "duplicate_parameters": "ignore ambiguous parameter",
+  "secret_admirer": "Consent first, no date guarantee, no real handles collected",
+  "storage": "allowlisted current-session context and fixture cart in sessionStorage; history state; no cookies, identity or cross-session profile",
+  "failure": "restore server-rendered default; prices and cart unchanged"
+}

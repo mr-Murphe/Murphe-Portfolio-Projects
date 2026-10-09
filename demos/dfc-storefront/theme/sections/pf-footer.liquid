@@ -1,0 +1,19 @@
+<footer class="footer"><div class="wrap"><strong>{{ section.settings.title | escape }}</strong><p>Independent Phasefield concept. No production checkout, analytics or merchant installation has been verified.</p></div></footer>
+{% schema %}
+{
+  "name": "Footer",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Flowers with personality."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Footer"
+    }
+  ]
+}
+{% endschema %}

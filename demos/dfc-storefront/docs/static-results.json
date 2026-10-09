@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "html_pages": 19,
+  "checks": [
+    "local asset/link integrity",
+    "single h1",
+    "no duplicate ids",
+    "image alternatives and dimensions",
+    "noindex",
+    "JSON template references",
+    "section schema JSON"
+  ],
+  "limits": "static checks only; no rendered browser/accessibility compliance claim"
+}

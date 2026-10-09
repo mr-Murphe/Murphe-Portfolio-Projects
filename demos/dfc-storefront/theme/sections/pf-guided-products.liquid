@@ -1,0 +1,24 @@
+<section class="content"><div class="wrap"><h2>{{ section.settings.heading | escape }}</h2><p data-pf-guidance>Browse all products. Missing fulfillment data must be confirmed.</p><div class="grid" data-pf-grid>{% assign source_collection = section.settings.collection | default: collection %}{% for product in source_collection.products limit: 50 %}{% render 'pf-product-card', product: product %}{% endfor %}</div><p data-pf-empty hidden>No timing-eligible products match. Choose ordinary browsing or confirm with the store.</p><script type="application/json" data-pf-catalog>[{% for product in source_collection.products limit: 50 %}{% unless forloop.first %},{% endunless %}{% render 'pf-experience-data', product: product %}{% endfor %}]</script></div></section>
+{% schema %}
+{
+  "name": "Guided Products",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Pick your kind of wow."
+    },
+    {
+      "type": "collection",
+      "id": "collection",
+      "label": "Reference collection"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Guided Products"
+    }
+  ]
+}
+{% endschema %}

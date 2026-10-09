@@ -1,0 +1,19 @@
+<div class="missions"><div class="wrap mission-row" data-pf-missions hidden><span>{{ section.settings.prompt | escape }}</span><button data-pf-mission="default">Browse</button><button data-pf-mission="urgent">Timing first</button><button data-pf-mission="mothers_day_discovery">Mother's Day demo</button><button data-pf-mission="secret_admirer">Secret Admirer</button></div></div>
+{% schema %}
+{
+  "name": "Mission Chooser",
+  "settings": [
+    {
+      "type": "text",
+      "id": "prompt",
+      "label": "Prompt",
+      "default": "What is the moment?"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Mission Chooser"
+    }
+  ]
+}
+{% endschema %}

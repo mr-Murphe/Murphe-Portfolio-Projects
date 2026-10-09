@@ -1,0 +1,19 @@
+<div class="availability" data-pf-availability>{{ section.settings.default_copy | escape }}</div>
+{% schema %}
+{
+  "name": "Availability Bar",
+  "settings": [
+    {
+      "type": "text",
+      "id": "default_copy",
+      "label": "Default advisory",
+      "default": "Confirm product timing with the store. This is a nonproduction concept."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Availability Bar"
+    }
+  ]
+}
+{% endschema %}

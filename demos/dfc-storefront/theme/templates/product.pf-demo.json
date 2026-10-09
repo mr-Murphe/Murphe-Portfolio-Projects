@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "s0": {
+      "type": "pf-availability-bar"
+    },
+    "s1": {
+      "type": "pf-main-product"
+    },
+    "s2": {
+      "type": "pf-secret-admirer-guide"
+    }
+  },
+  "order": [
+    "s0",
+    "s1",
+    "s2"
+  ]
+}

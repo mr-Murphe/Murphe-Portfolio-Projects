@@ -1,0 +1,12 @@
+<section class="content"><div class="wrap"><h1>Concept bag</h1>{% if settings.demo_mode %}<p>No order or payment collection is enabled in this independent concept.</p>{% else %}<form action="{{ routes.cart_url }}" method="post">{% for item in cart.items %}<div class="cart-line"><a href="{{ item.url }}">{{ item.title | escape }}</a><label>Quantity<input type="number" name="updates[]" value="{{ item.quantity }}" min="0"></label>{{ item.final_line_price | money }}</div>{% endfor %}<p>{{ cart.total_price | money }}</p><button name="update">Update cart</button><button name="checkout">Checkout</button></form>{% endif %}</div></section>
+{% schema %}
+{
+  "name": "Cart",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Cart"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,658 @@
+[
+  {
+    "id": "pf-01",
+    "handle": "ice-cream-cone-bouquet",
+    "title": "Ice Cream Cone Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/ice-cream-cone-bouquet",
+    "reference_price": 15,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "novelty",
+    "styles": [
+      "playful"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-02",
+    "handle": "cotton-candy-babys-breath-bouquet",
+    "title": "Cotton Candy Babys Breath Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/cotton-candy-babys-breath-bouquet",
+    "reference_price": 50,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "mixed",
+    "styles": [
+      "playful"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-03",
+    "handle": "sale-spooky-bouquet",
+    "title": "(SALE) Spooky Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/sale-spooky-bouquet",
+    "reference_price": 35,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "novelty",
+    "styles": [
+      "playful"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-04",
+    "handle": "sexyy-red-50-red-rose-fillers",
+    "title": "50 Red Rose Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/sexyy-red-50-red-rose-fillers",
+    "reference_price": 250,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "roses",
+    "styles": [
+      "classic"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/classic.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-05",
+    "handle": "50-red-white-heart-rose-arrangement%E2%9D%A4%EF%B8%8F",
+    "title": "50 Red & White Heart Rose Arrangement",
+    "source_url": "https://www.detroitflowercompany.com/products/50-red-white-heart-rose-arrangement%E2%9D%A4%EF%B8%8F",
+    "reference_price": 200,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "roses",
+    "styles": [
+      "bold"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/hero.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-06",
+    "handle": "50-magical-deluxe-bouquet",
+    "title": "50 Magical Deluxe Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/50-magical-deluxe-bouquet",
+    "reference_price": 325,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "statement",
+    "styles": [
+      "bold"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/hero.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-07",
+    "handle": "lavender-haze-bouquet",
+    "title": "100 Luxury Lavender Roses Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/lavender-haze-bouquet",
+    "reference_price": 450,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "statement",
+    "styles": [
+      "bold"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": false,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/hero.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-08",
+    "handle": "luxury-red-100-rose",
+    "title": "100 Luxury Red Roses",
+    "source_url": "https://www.detroitflowercompany.com/products/luxury-red-100-rose",
+    "reference_price": 400,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "statement",
+    "styles": [
+      "classic"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/classic.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-09",
+    "handle": "coral-crush-marshmallow-bouquet",
+    "title": "50 Coral Crush Marshmallow Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/coral-crush-marshmallow-bouquet",
+    "reference_price": 350,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "statement",
+    "styles": [
+      "playful"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-10",
+    "handle": "golden-girl-bouquet",
+    "title": "50 Golden Girl Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/golden-girl-bouquet",
+    "reference_price": 250,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "roses",
+    "styles": [
+      "bold"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/hero.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-11",
+    "handle": "orange-dream-bouquet",
+    "title": "50 Orange Dream Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/orange-dream-bouquet",
+    "reference_price": 250,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "roses",
+    "styles": [
+      "playful"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-12",
+    "handle": "50-red-hot-pink-magical-bouquet",
+    "title": "50 Red & Hot Pink Magical Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/50-red-hot-pink-magical-bouquet",
+    "reference_price": 375,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "statement",
+    "styles": [
+      "bold"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/hero.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-13",
+    "handle": "50-red-pink-presentation-bouquet",
+    "title": "50 Red & Pink Presentation Bouquet",
+    "source_url": "https://www.detroitflowercompany.com/products/50-red-pink-presentation-bouquet",
+    "reference_price": 300,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "roses",
+    "styles": [
+      "classic"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": true,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/classic.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-14",
+    "handle": "floral-numbers",
+    "title": "Floral Letters",
+    "source_url": "https://www.detroitflowercompany.com/products/floral-numbers",
+    "reference_price": 265,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "custom",
+    "styles": [
+      "custom"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because",
+      "mothers_day"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "card concept",
+      "color concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 3,
+    "lead_time_evidence": "VO: Floral Letters states 3 days; CV: calendar/business-day interpretation",
+    "same_day_demo_eligible": false,
+    "secret_admirer_demo_eligible": true,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  },
+  {
+    "id": "pf-15",
+    "handle": "bouquet-toppers",
+    "title": "Bouquet Toppers (NO FLOWERS INCLUDED)",
+    "source_url": "https://www.detroitflowercompany.com/products/bouquet-toppers",
+    "reference_price": 15,
+    "price_reference_date": "2026-10-09",
+    "currency": "USD",
+    "price_evidence": "VO: public displayed base/listing price; variant prices unverified",
+    "category": "add-ons",
+    "styles": [
+      "custom"
+    ],
+    "occasions": [
+      "birthday",
+      "love",
+      "just_because"
+    ],
+    "occasion_evidence": "SH: proposed merchandising fit, not merchant-approved tags",
+    "customization_options": [
+      "topper concept"
+    ],
+    "customization_evidence": "CV: per-product allowed options and surcharges need approval",
+    "lead_time_days": 0,
+    "lead_time_evidence": "IE: zero-day demo fixture, not verified eligibility",
+    "same_day_demo_eligible": false,
+    "secret_admirer_demo_eligible": false,
+    "demo_available": true,
+    "availability_evidence": "IE: fixed simulation; no live inventory",
+    "asset_source": "Original AI-generated floral concept; shared category illustration",
+    "asset_rights_status": "Generated independently; no DFC photography or trademark logo copied; illustrative, not actual product depiction",
+    "image": "assets/playful.webp",
+    "client_validation": [
+      "variant price",
+      "actual inventory",
+      "holiday capacity",
+      "fulfillment modes/zones",
+      "customization rules",
+      "SAP eligibility"
+    ],
+    "notes": "No discounts inferred from product name; display reference price unchanged. Mother\u2019s Day is a presenter-selected seasonal simulation."
+  }
+]

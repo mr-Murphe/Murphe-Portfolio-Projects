@@ -1,0 +1,12 @@
+<div class="wrap pdp"><div>{% if product.featured_image %}{{ product.featured_image | image_url: width: 1000 | image_tag }}{% endif %}</div><div><h1>{{ product.title | escape }}</h1><p class="price">{{ product.price | money }}</p><div class="notice">{% if product.metafields.phasefield.lead_time_days.value %}Lead time reference: {{ product.metafields.phasefield.lead_time_days.value }} days. {% endif %}Actual timing requires confirmation.</div>{% if settings.demo_mode %}<p>Purchase controls disabled in this independent concept. No real order is collected.</p>{% else %}{% form 'product', product %}<label for="variant-{{ section.id }}">Choose an available variant</label><select id="variant-{{ section.id }}" name="id">{% for variant in product.variants %}<option value="{{ variant.id }}" {% unless variant.available %}disabled{% endunless %}>{{ variant.title | escape }} — {{ variant.price | money }}</option>{% endfor %}</select><button type="submit" name="add" {% unless product.available %}disabled{% endunless %}>Add to cart</button>{% endform %}{% endif %}</div></div>
+{% schema %}
+{
+  "name": "Main Product",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Main Product"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,24 @@
+<header><div class="wrap nav"><a class="brand" href="{{ routes.root_url }}">{{ section.settings.store_title | escape }}</a><nav aria-label="Main">{% for link in section.settings.menu.links %}<a href="{{ link.url }}">{{ link.title | escape }}</a>{% endfor %}<a href="{{ routes.cart_url }}">{{ 'Demo bag' }} ({{ cart.item_count }})</a></nav></div></header>
+{% schema %}
+{
+  "name": "Header",
+  "settings": [
+    {
+      "type": "text",
+      "id": "store_title",
+      "label": "Store reference title",
+      "default": "Independent floral concept"
+    },
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "Navigation menu"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Header"
+    }
+  ]
+}
+{% endschema %}
