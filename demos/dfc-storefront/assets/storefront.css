@@ -9,3 +9,5 @@
 @media(max-width:700px){.steps{grid-template-columns:minmax(0,1fr)}.hero-copy h1{max-width:100%}.card h3{overflow-wrap:anywhere}}
 .split,.faq,.pdp{grid-template-columns:repeat(2,minmax(0,1fr))}.split>*,.faq>*,.pdp>*{min-width:0}h2,.eyebrow,.notice{overflow-wrap:anywhere}
 @media(max-width:700px){.split,.faq,.pdp{grid-template-columns:minmax(0,1fr)}}
+
+[data-cart-count]{display:inline-block;min-width:3ch;font-variant-numeric:tabular-nums}

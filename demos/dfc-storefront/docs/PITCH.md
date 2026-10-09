@@ -10,7 +10,7 @@ Phasefield sells research-to-implementation and measured commercial learning. It
 ## Three-minute demo script
 1. Open default. Point out brand expression, stable navigation, catalog, timing guidance and independent-concept label. Show a PDP and demo bag; explicitly state checkout is absent.
 2. Follow `index.html?pf_mission=urgent&pf_occasion=mothers_day`. Explain that the campaign’s declared intent selects urgent guidance, not the shopper’s identity. Select under $75. Show zero-day fixtures before cutoff.
-3. Open presenter controls, select 11 a.m. Same-day results disappear. Select next business day to continue. Select Sunday to show closure. No actual delivery promise is made.
+3. Open presenter controls, select 11 a.m. Same-day results disappear. Select Later date to continue; each product keeps its own lead-time fixture. Select Sunday to show closure. No actual delivery promise is made.
 4. Switch to Mother's Day discovery. Style selection prioritizes suitable concepts and budget narrows the same catalog. The visitor’s choice overrides campaign context. Explain seasonal simulation.
 5. Switch to Secret Admirer. Explain consent, fixed example handle, no real data field, no date guarantee and standard-gifting exit.
 6. Add a fixture to bag; simulate adaptive failure. Default content returns and the baseline bag continues. Show back/forward and reset.

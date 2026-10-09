@@ -76,16 +76,16 @@
   "performance": [
     {
       "width": 1440,
-      "lcp_ms": 216,
-      "cls": 0.0028018108000578703,
-      "transfer_bytes": 674614,
+      "lcp_ms": 176,
+      "cls": 0.002473611111111111,
+      "transfer_bytes": 675598,
       "conditions": "local unt throttled headless Chromium, not field CWV/INP"
     },
     {
       "width": 390,
-      "lcp_ms": 116,
+      "lcp_ms": 100,
       "cls": 0.011466000000000002,
-      "transfer_bytes": 674614,
+      "transfer_bytes": 675598,
       "conditions": "local unt throttled headless Chromium, not field CWV/INP"
     }
   ],

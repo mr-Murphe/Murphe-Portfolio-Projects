@@ -1,0 +1,328 @@
+{
+  "accessibility": [
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 390,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 390,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 390,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "firefox",
+      "width": 390,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 1440,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 1440,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 1440,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 1440,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 390,
+      "state": "default",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 390,
+      "state": "urgent",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 390,
+      "state": "mothers_day_discovery",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    },
+    {
+      "browser": "webkit",
+      "width": 390,
+      "state": "secret_admirer",
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 24
+    }
+  ],
+  "keyboard": [
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    },
+    {
+      "browser": "chromium",
+      "width": 390,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    },
+    {
+      "browser": "firefox",
+      "width": 390,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    },
+    {
+      "browser": "webkit",
+      "width": 1440,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    },
+    {
+      "browser": "webkit",
+      "width": 390,
+      "status": "passed",
+      "checks": "skip link, mission Enter/Space and moved-section focus, FAQ disclosure, repeated cart quantity/removal and focus recovery"
+    }
+  ],
+  "resilience": [
+    {
+      "browser": "chromium",
+      "status": "passed",
+      "checks": "null/object/malformed catalog, actual engine request abort preserves bag, duplicate campaign, cutoff three boundaries, invalid time, local event hygiene"
+    },
+    {
+      "browser": "firefox",
+      "status": "passed",
+      "checks": "null/object/malformed catalog, actual engine request abort preserves bag, duplicate campaign, cutoff three boundaries, invalid time, local event hygiene"
+    },
+    {
+      "browser": "webkit",
+      "status": "passed",
+      "checks": "null/object/malformed catalog, actual engine request abort preserves bag, duplicate campaign, cutoff three boundaries, invalid time, local event hygiene"
+    }
+  ],
+  "performance": [
+    {
+      "run": 1,
+      "profile": "cold local origin, mobile 390x844, 150ms latency, 1.6Mbps down, 4x CPU",
+      "lcp_ms": 552,
+      "cls": 0.011497383257339233,
+      "transfer_bytes": 527509,
+      "interaction_max_ms": 40,
+      "interaction_count": 12
+    },
+    {
+      "run": 2,
+      "profile": "cold local origin, mobile 390x844, 150ms latency, 1.6Mbps down, 4x CPU",
+      "lcp_ms": 572,
+      "cls": 0.011497383257339233,
+      "transfer_bytes": 527509,
+      "interaction_max_ms": 32,
+      "interaction_count": 12
+    },
+    {
+      "run": 3,
+      "profile": "cold local origin, mobile 390x844, 150ms latency, 1.6Mbps down, 4x CPU",
+      "lcp_ms": 532,
+      "cls": 0.011497383257339233,
+      "transfer_bytes": 527509,
+      "interaction_max_ms": 40,
+      "interaction_count": 12
+    }
+  ]
+}
